@@ -29,7 +29,7 @@ nav ul {
     color: #bdc1c6;
 } */
 
-nav ul:last-of-type a {
+nav ul:first-of-type a {
     color: #000000de;
 }
 .extra
@@ -41,6 +41,7 @@ nav ul li {
     list-style-type: none;
     padding: 12px;
 }
+
 
 nav a {
     text-decoration: none;
@@ -177,7 +178,7 @@ textarea {
     margin: 0;
     margin-bottom: 8px;
     padding: 0;
-    color: #e8eaed;
+    color: #202124;
     word-wrap: break-word;
     outline: none;
     display: flex;
@@ -514,6 +515,12 @@ display: flex;
    #search-bar div:last-of-type img:last-of-type
    {
     width:13px;
+   }
+
+   .first
+   {
+    display: flex;
+    justify-content: start;
    }
 }
 
