@@ -390,7 +390,8 @@ display: flex;
     }
 
     #search-bar {
-        max-width: 280px;
+        max-width: 300px;
+        max-height: 30px;
       
     }
 
@@ -469,7 +470,7 @@ display: flex;
     margin-left: 5px;
     }
     #search-bar img {
-        width:10px;
+        width:15px;
     }
     
     /* #search-bar div:last-of-type img:last-of-type {
@@ -510,4 +511,8 @@ display: flex;
    }
    
 
+   #search-bar div:last-of-type img:last-of-type
+   {
+    width:13px;
+   }
 }
