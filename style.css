@@ -387,7 +387,7 @@ display: flex;
     } */
     #search-bar div:last-of-type img:last-of-type {
 
-        margin-right: 10px;
+        margin-left: 10px;
     }
 
     #search-bar {
