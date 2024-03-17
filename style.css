@@ -387,7 +387,7 @@ display: flex;
     } */
     #search-bar div:last-of-type img:last-of-type {
 
-        margin-right: -30px;
+        margin-right: 10px;
     }
 
     #search-bar {
@@ -519,8 +519,7 @@ display: flex;
 
    .first
    {
-    display: flex;
-    justify-content: start;
+    margin-left:20px;
    }
 }
 
